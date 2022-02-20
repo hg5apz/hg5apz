@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...
 
 
-- 📫 How to reach me ... hg5apz@gmail
+- 📫 How to reach me? try on hg5apz@gmail
 
 <!---
 hg5apz/hg5apz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

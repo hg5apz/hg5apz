@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @hg5apz
-- �
 - 🌱 I’m currently learning ...
-
-
 - 📫 How to reach me? try on hg5apz@gmail
 
 <!---
